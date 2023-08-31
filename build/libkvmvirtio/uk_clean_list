@@ -1,0 +1,10 @@
+/home/unikernel/helloworld/build/libkvmvirtio/virtio_bus.o
+/home/unikernel/helloworld/build/libkvmvirtio/virtio_bus.o.cmd
+/home/unikernel/helloworld/build/libkvmvirtio/virtio_bus.d
+/home/unikernel/helloworld/build/libkvmvirtio/virtio_ring.o
+/home/unikernel/helloworld/build/libkvmvirtio/virtio_ring.o.cmd
+/home/unikernel/helloworld/build/libkvmvirtio/virtio_ring.d
+/home/unikernel/helloworld/build/libkvmvirtio.ld.o
+/home/unikernel/helloworld/build/libkvmvirtio.ld.o.cmd
+/home/unikernel/helloworld/build/libkvmvirtio.o
+/home/unikernel/helloworld/build/libkvmvirtio.o.cmd

@@ -1,0 +1,1 @@
+echo libkvmplat libkvmpci libkvmvirtio apphelloworld libnolibc libukalloc libukallocbbuddy libukargparse libukboot libukboot_main libukbus libukdebug libuklibid libukintctlr libuksched libukschedcoop libuksglist libuktimeconv libcontext | tr ' ' '\n' | sort -V - > /home/unikernel/helloworld/build/libuklibid/libraries.in.new

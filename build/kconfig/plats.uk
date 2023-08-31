@@ -1,0 +1,5 @@
+# Auto generated file. DO NOT EDIT
+source "/home/unikernel/helloworld/.unikraft/unikraft/plat/kvm/Config.uk"
+source "/home/unikernel/helloworld/.unikraft/unikraft/plat/linuxu/Config.uk"
+source "/home/unikernel/helloworld/.unikraft/unikraft/plat/xen/Config.uk"
+source "/home/unikernel/helloworld/.unikraft/unikraft/plat/Config.uk"

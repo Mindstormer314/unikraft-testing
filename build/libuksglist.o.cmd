@@ -1,0 +1,1 @@
+""objcopy --keep-global-symbols=/home/unikernel/helloworld/.unikraft/unikraft/lib/uksglist/exportsyms.uk       /home/unikernel/helloworld/build/libuksglist.ld.o /home/unikernel/helloworld/build/libuksglist.o

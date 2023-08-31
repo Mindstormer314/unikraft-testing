@@ -1,0 +1,1 @@
+/home/unikernel/helloworld/.unikraft/unikraft/support/scripts/mkbootinfo.py /home/unikernel/helloworld/build/helloworld_qemu-x86_64 /home/unikernel/helloworld/build/helloworld_qemu-x86_64.bootinfo -a "x86_64" && ""objcopy /home/unikernel/helloworld/build/helloworld_qemu-x86_64 --update-section .uk_bootinfo=/home/unikernel/helloworld/build/helloworld_qemu-x86_64.bootinfo

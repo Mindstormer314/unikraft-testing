@@ -1,0 +1,1 @@
+awk -f /home/unikernel/helloworld/.unikraft/unikraft/lib/uklibid/exportsyms.awk        /home/unikernel/helloworld/build/libuklibid/libraries.in > /home/unikernel/helloworld/build/libuklibid/exportsyms.uk

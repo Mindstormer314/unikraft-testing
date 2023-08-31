@@ -1,0 +1,1 @@
+""strip -s /home/unikernel/helloworld/build/helloworld_qemu-x86_64.dbg -o /home/unikernel/helloworld/build/helloworld_qemu-x86_64 2>&1 | { grep -Ev "Empty loadable segment detected|section.*lma.*adjusted to.*" || true; }

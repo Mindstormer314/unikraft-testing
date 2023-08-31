@@ -1,0 +1,1 @@
+""objcopy --keep-global-symbols=/home/unikernel/helloworld/.unikraft/unikraft/lib/nolibc/exportsyms.uk      -w -L __* /home/unikernel/helloworld/build/libnolibc.ld.o /home/unikernel/helloworld/build/libnolibc.o

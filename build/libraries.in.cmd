@@ -1,0 +1,1 @@
+cmp -s /home/unikernel/helloworld/build/libuklibid/libraries.in.new /home/unikernel/helloworld/build/libuklibid/libraries.in; if [ $? -ne 0 ]; then cp /home/unikernel/helloworld/build/libuklibid/libraries.in.new /home/unikernel/helloworld/build/libuklibid/libraries.in; fi

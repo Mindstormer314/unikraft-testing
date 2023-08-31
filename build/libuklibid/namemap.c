@@ -1,0 +1,22 @@
+/* Automatically generated file; DO NOT EDIT */
+const char *namemap[] = {
+	"apphelloworld",
+	"libcontext",
+	"libkvmpci",
+	"libkvmplat",
+	"libkvmvirtio",
+	"libnolibc",
+	"libukalloc",
+	"libukallocbbuddy",
+	"libukargparse",
+	"libukboot",
+	"libukboot_main",
+	"libukbus",
+	"libukdebug",
+	"libukintctlr",
+	"libuklibid",
+	"libuksched",
+	"libukschedcoop",
+	"libuksglist",
+	"libuktimeconv",
+};
